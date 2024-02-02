@@ -1,0 +1,14 @@
+
+
+/*error and message*/
+.error {
+	text-align: center;
+	color: red;
+	margin-top: 15px;
+}
+
+.message {
+	text-align: center;
+	color: green;
+	margin-top: 15px;
+}
